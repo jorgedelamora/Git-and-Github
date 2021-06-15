@@ -1,0 +1,4 @@
+This text File is on the first branch, not on the master branch that should actually be called main for political correctness.
+
+This is the firstBranch file that I'm modifying in the firstBranch while I have already merged it with master branch. So it will be modified here but not
+in the master branch copy.

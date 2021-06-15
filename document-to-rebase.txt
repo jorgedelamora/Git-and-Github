@@ -1,0 +1,1 @@
+This document is on First Branch but after a rebase command it will be part of the history at tip of master branch
